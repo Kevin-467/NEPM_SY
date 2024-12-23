@@ -1,4 +1,4 @@
-package com.foreknow.test;
+package com.kevinchan;
 
 import java.sql.*;
 import java.util.ArrayList;

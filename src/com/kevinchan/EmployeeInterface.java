@@ -2,7 +2,7 @@ package com.kevinchan;
 
 import java.util.List;
 
-public interface EmployeeDao {
+public interface EmployeeInterface {
     /**
      * 添加员工
      * insert into employee values(?,?,?,?);

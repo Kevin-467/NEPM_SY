@@ -1,4 +1,4 @@
-package com.foreknow.test;
+package com.kevinchan;
 
 public class Admin {
     private Integer id;
